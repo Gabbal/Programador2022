@@ -44,12 +44,12 @@ Se crea con el simbolo *mayor que* \>.
 
 Para listas desordenadas, se usa \* asteriscos, \- guiones, o \+ símbolo de suma.
 
-\- Elemento de lista 1
-\- Elemento de lista 2
-\* Elemento de lista 3
-\* Elemento de lista 4
-\+ Elemento de lista 5
-\+ Elemento de lista 6
+\- Elemento de lista 1    
+\- Elemento de lista 2    
+\* Elemento de lista 3    
+\* Elemento de lista 4    
+\+ Elemento de lista 5    
+\+ Elemento de lista 6    
 
 - Elemento de lista 1
 - Elemento de lista 2
@@ -62,7 +62,7 @@ Para listas desordenadas, se usa \* asteriscos, \- guiones, o \+ símbolo de sum
 
 ### Listas ordenadas:
 
-Para listas ordenadas, se usa *numero.* \1. 
+Para listas ordenadas, se usa *numero.* 1. 
 
 1. Elemento de lista 1
 2. Elemento de lista 2
@@ -71,12 +71,12 @@ Para listas ordenadas, se usa *numero.* \1.
 5. Elemento de lista 5
 6. Elemento de lista 6
 
-\1. Elemento de lista 1
-\2. Elemento de lista 2
-\3. Elemento de lista 3
-\4. Elemento de lista 4
-\5. Elemento de lista 5
-\6. Elemento de lista 6
+\1. Elemento de lista 1    
+2. Elemento de lista 2    
+3. Elemento de lista 3    
+4. Elemento de lista 4    
+5. Elemento de lista 5    
+6. Elemento de lista 6    
 
 ***
 
@@ -112,12 +112,12 @@ ___
 
 Envolver palabras o textos con asteriscos o guiones bajos.
 
-*cursiva*
-\*cursiva\*
-**negrita**
-\*\*negrita\*\*
-***cursiva y negrita***
-\*\*\*cursiva y negrita\*\*\*
+*cursiva*    
+\*cursiva\*    
+**negrita**     
+\*\*negrita\*\*     
+***cursiva y negrita***     
+\*\*\*cursiva y negrita\*\*\*     
 
 ### Código (inline):
 
@@ -149,11 +149,11 @@ También podrás añadir un título alternativo entrecomillándolo al final de l
 
 `![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")`
 
-Para mejorar la legibilidad del archivo, se pueden referenciar los links a urls o imagenes de la siguiente forma:
-URL:
+Para mejorar la legibilidad del archivo, se pueden referenciar los links a urls o imagenes de la siguiente forma:    
+URL:    
 `[nombre que quieres darle a tu enlace][nombre de tu referencia]
 [nombre de tu referencia]: http:www.tuenlace.com`
-Imagenes:
+Imagenes:    
 `De esta forma podrías insertar una imagen
 ![nombre de la imagen][img1]
 O dos, sin ensuciar tu espacio de escritura.
@@ -164,8 +164,8 @@ O dos, sin ensuciar tu espacio de escritura.
 # Caracter de escape
 
 Para escapar un caracter especial, se inserta una barra invertida antes \\.
-
-`\  barra invertida
+~~~
+\  barra invertida
 `  acento invertido
 *  asterisco
 _  guión bajo
@@ -176,4 +176,5 @@ _  guión bajo
 +  símbolo de suma
 -  guión
 .  punto
-!  exclamación`
+!  exclamación
+~~~
