@@ -6,6 +6,7 @@ Aula 32 - Grupo 4
 La metodología Scrum podemos identificar tres roles principales, a saber: Product Owner, Scrum Master y el Scrum Team. 
 
 ### Product Owner
+
 El Product Owner es responsable, principalmente, de garantizar una comunicación clara entre stakeholders, los clientes y los usuarios, sobre el producto, de definir los criterios de aceptación y asegurar que se cumplan.
 
 De manera orientativa, enlistamos algunas de las responsabilidades del Product Owner que consideramos más relevantes:
@@ -20,6 +21,7 @@ De manera orientativa, enlistamos algunas de las responsabilidades del Product O
 - Representar a los usuarios del producto o servicio con un profundo conocimiento de la comunidad de usuarios.
 
 ### Scrum Master
+
 El Scrum Master es quien modera y facilita las interacciones del equipo como facilitador y motivador. Este rol es responsable de asegurar un ambiente de trabajo productivo para el equipo, despejar los obstáculos y garantizar que se cumplan los principios, aspectos y procesos de la metodología Scrum.
 
 De manera orientativa, enlistamos algunas de las responsabilidades del Scrum Master que consideramos más relevantes:
@@ -32,6 +34,7 @@ De manera orientativa, enlistamos algunas de las responsabilidades del Scrum Mas
 - Garantizar que exista un ambiente ideal para el equipo Scrum.
 
 ### Scrum Team
+
 El Scrum Team, es responsable del desarrollo, servicio o de cualquier otro resultado. Es un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto, es un equipo auto gestionado y multifuncional con diversas habilidades.
 
 De manera orientativa, enlistamos algunas de las responsabilidades del Scrum Team que consideramos más relevantes:
@@ -42,8 +45,9 @@ De manera orientativa, enlistamos algunas de las responsabilidades del Scrum Tea
 - Realizar las Daily Standup Meeting.
 - Identificar oportunidades de mejora en la reunión de retrospectiva del sprint.
 - Participar en la reunión de retrospectiva del proyecto.
-## Ceremonias
 
+
+## Ceremonias
 
 Ceremonias que se realizan a lo largo del proyecto:
 + _Sprint Planning Meeting_
