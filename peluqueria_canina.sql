@@ -147,7 +147,7 @@ insert into Perro (Nombre, Fecha_nac, Sexo, DNI_Dueno) values ("Xico", "2013-11-
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-1-14", 5, "Corte de uñas", 200);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-9-22", 14, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-5-4", 43, "Guarderia", 100);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-7-4", 58, "Desparasitacion", 500);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2022-7-4", 58, "Desparasitacion", 500);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-10-26", 56, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-1-18", 4, "Peluqueria", 250);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-8-15", 20, "Atencion Medica", 700);
@@ -163,13 +163,13 @@ INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-10-19", 4
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-5-15", 1, "Corte de uñas", 200);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-9-13", 17, "Desparasitacion", 500);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-9-5", 54, "Atencion Medica", 700);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-7-20", 13, "Peluqueria", 250);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2022-7-20", 13, "Peluqueria", 250);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-3-27", 34, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-11-1", 46, "Guarderia", 100);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-1-26", 41, "Desparasitacion", 500);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-1-15", 43, "Desparasitacion", 500);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-4-2", 1, "Desparasitacion", 500);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-10-15", 1, "Corte de uñas", 200);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2022-7-15", 1, "Corte de uñas", 200);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-5-15", 60, "Corte de uñas", 200);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-9-11", 18, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-9-2", 44, "Guarderia", 100);
@@ -188,7 +188,7 @@ INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-9-10", 41
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-9-27", 5, "Peluqueria", 250);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-9-20", 52, "Guarderia", 100);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-7-10", 41, "Atencion Medica", 700);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-4-25", 46, "Atencion Medica", 700);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2022-7-25", 46, "Atencion Medica", 700);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-9-3", 31, "Atencion Medica", 700);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-10-24", 23, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-9-11", 30, "Peluqueria", 250);
@@ -198,7 +198,7 @@ INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-5-20", 4,
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-6-14", 45, "Corte de uñas", 200);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-6-16", 17, "Desparasitacion", 500);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-5-7", 40, "Desparasitacion", 500);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-9-15", 44, "Cirugia", 1000);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2022-7-15", 44, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-11-10", 45, "Guarderia", 100);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-1-13", 36, "Peluqueria", 250);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-10-7", 26, "Atencion Medica", 700);
@@ -219,9 +219,16 @@ INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-2-4", 53,
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-5-17", 7, "Peluqueria", 250);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-10-27", 32, "Desparasitacion", 500);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2019-3-12", 49, "Desparasitacion", 500);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-11-25", 27, "Guarderia", 100);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2012-7-25", 27, "Guarderia", 100);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2021-11-19", 20, "Corte de uñas", 200);
-INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-11-14", 61, "Guarderia", 100);
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2022-7-14", 61, "Guarderia", 100);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2018-8-16", 52, "Cirugia", 1000);
 INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-3-20", 44, "Corte de uñas", 200);
 
+#6 Obtener todos los perros que asistieron a la peluquería en 2022
+SELECT Perro
+FROM Historial
+WHERE Fecha LIKE '2022%';
+
+#8 Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10.
+INSERT INTO Historial (Fecha, Perro, Descripcion, Monto) Values ("2020-8-14", 10, "Corte de uñas", 200);
